@@ -137,6 +137,8 @@ The highest number of articles are of 'Black' colour group followed by 'Dark Blu
 
 ## Experiments:
 
+Intuition behind custom retrieval strategy can be found [here.](https://nbviewer.org/github/awinml/hm-recsys/blob/main/hm-similar-items-explore.ipynb)
+
 ### Candidate Retrieval
 A lightweight candidate retrieval method was created that was a combination of the following retrieval strategies.
 - Recommend Items Purchased Together in the last week:
