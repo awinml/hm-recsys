@@ -4,3 +4,4 @@ cupy
 cuml
 lightbm
 scikit-learn
+cv2
