@@ -9,9 +9,9 @@
 - A custom lightweight candidate retrieval method was created using a combination of retrieval of candidates that were purchased together in the last week as well as
   most popular candidates based on age group.
 
-- The candidates were ranked using a LightGBM model based on features created using the number of times that product was purchased as well as the percentage of customers that purchased that product.
+- The candidates were ranked using a LightGBM model based on features created using the frequency of product purchase as well as the percentage of customers that purchased that product.
 
-- A fine tuned recommendation system using a custom candidate retrival method and LightGBM Ranking model was used to make final predictions which yielded an **MAP@12 score of 0.345 and a overall AUC of 0.76.**
+- A fine tuned recommendation system using a custom candidate retrieval method and LightGBM Ranking model was used to make final predictions which yielded an **MAP@12 score of 0.345 and an overall AUC of 0.76.**
 
 ## Data
 
