@@ -1,5 +1,10 @@
 # H&M Personalized Product Recommendations
 
+<div align='center'>
+   <img src="hm_recsys_cover.jpg"  width="500" height="300">
+<br/>
+</div>
+
 - Built a **product recommendation system** to recommend products based on previous transactions, as well as from customer and product meta data using the data provided by H&M.
 
 - The data contains **1,05,542 unique products** with information on **24 characteristics** for each product.
