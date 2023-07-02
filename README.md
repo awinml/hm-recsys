@@ -56,7 +56,7 @@ The complete analysis can be viewed [here](https://nbviewer.org/github/awinml/hm
 
 ### Distribution of number of unique Articles sold per day grouped by Sales Channel:
 
-- Sales Channel 1 has faily consistent number of unique Articles sold per day with rarely any spikes.
+- Sales Channel 1 has fairly consistent number of unique Articles sold per day with rarely any spikes.
 - Sales Channel 2 consistently sells more unique products per day than Sales Channel 1 throughout 2018 to 2020.
 
 <br><br>
@@ -121,7 +121,7 @@ The highest number of articles are of 'Solid' appearance followed by 'All over p
 
 ### Product Index with the highest number of unique articles:
 
-The index named 'Ladiesear' has the highest number of unique articles closely followed by 'Divided'.
+The index named 'Ladieswear' has the highest number of unique articles closely followed by 'Divided'.
 
 <br>
 <img src="plots/5_highest_articles_index_name.png" alt="Target Distribution" width="500" height="300">
